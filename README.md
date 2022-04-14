@@ -1,5 +1,7 @@
 # jpa03-yuheho7749
 
+* GitHub Repo: https://github.com/ucsb-cs156-s22/jpa03-yuheho7749/
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-yuheho7749-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-yuheho7749-docs-qa/>
